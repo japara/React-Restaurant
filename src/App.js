@@ -1,15 +1,11 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
-import Header from "./Header";
-import UncontrolledExample from "./Carousel";
-import Footer from "./Footer";
+import AboutUs from "./AboutUs";
 
 function App() {
   return (
     <>
-      <Header />
-      <UncontrolledExample />
-      <Footer />
+      <AboutUs />
     </>
   );
 }

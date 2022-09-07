@@ -15,7 +15,7 @@ a {
   justify-content: space-between;
   align-items: center;
   margin: 0 auto;
-  color: antiquewhite;
+  color: rgb(253, 253, 252);
   background-color: black;
   padding-top: 1rem;
 }
@@ -59,7 +59,7 @@ a {
 }
 
 .footer-text {
-  color: antiquewhite;
+  color: rgb(253, 253, 252);
   margin-top: 1rem;
   border-bottom: 1px solid antiquewhite;
 }
@@ -81,4 +81,47 @@ a {
   width: 2rem;
   margin-right: 2rem;
   margin-left: 2rem;
+}
+
+/* Contact */
+
+.contact-page {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10rem 0;
+  align-items: center;
+  background-color: #fecea8;
+}
+
+.map-cont {
+  width: 600px;
+  height: 550px;
+}
+
+.contact-cont {
+  font-size: 1.5rem;
+  color: #355c7d;
+  font-weight: 700;
+  font-family: "Noto Serif";
+}
+
+/* About Us */
+
+.about-page {
+  background-image: url("/Users/japara/Desktop/boot/React-Restaurant/src/images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-page p {
+  color: rgb(250, 92, 92);
+  width: 50vw;
+  font-size: 1.2rem;
+  font-weight: 800;
 }

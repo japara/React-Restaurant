@@ -3,7 +3,7 @@ import image1 from "./images/mexican-design-1.jpeg";
 import image2 from "./images/mexican-design-2.jpeg";
 import image3 from "./images/mexican-design-3.jpeg";
 
-function UncontrolledExample() {
+function Carousel1() {
   return (
     <Carousel>
       <Carousel.Item>
@@ -19,4 +19,4 @@ function UncontrolledExample() {
   );
 }
 
-export default UncontrolledExample;
+export default Carousel1;
