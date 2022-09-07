@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* HEADER */
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  color: antiquewhite;
+  background-color: black;
+  padding-top: 1rem;
+}
+
+#header-nav ul {
+  display: flex;
+  align-items: center;
+}
+
+#header-nav li {
+  list-style-type: none;
+  margin-right: 3rem;
+}
+
+#cart {
+  width: 3vw;
+  margin-right: 5rem;
+}
+
+#header-logo {
+  width: 5vw;
+  pointer-events: none;
+  margin-right: 7rem;
+}
+
+/* Footer */
+.footer {
+  background-color: black;
+  padding: 3rem 0;
+}
+.footer-info {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.footer-img {
+  width: 4rem;
+  height: 4rem;
+}
+
+.footer-text {
+  color: antiquewhite;
+  margin-top: 1rem;
+  border-bottom: 1px solid antiquewhite;
+}
+
+.info-cont {
+  width: fit-content;
+  text-align: center;
+}
+
+.footer-tags {
+  width: 100%;
+  text-align: center;
+  margin-top: 3rem;
+  padding-top: 3rem;
+  border-top: 1px solid antiquewhite;
+}
+
+.footer-tag {
+  width: 2rem;
+  margin-right: 2rem;
+  margin-left: 2rem;
+}
