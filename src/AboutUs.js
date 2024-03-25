@@ -1,12 +1,10 @@
 import React, { Component } from "react";
-import Header from "./Header";
 import Footer from "./Footer";
 
 export default class AboutUs extends Component {
   render() {
     return (
       <>
-        <Header />
         <div className="about-page">
           <p>
             Beloved by customers, Azteca Mexican Restaurants feature a wide

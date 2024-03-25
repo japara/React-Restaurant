@@ -1,12 +1,10 @@
 import React, { Component } from "react";
-import Header from "./Header";
 import Footer from "./Footer";
 
 export default class Contact extends Component {
   render() {
     return (
       <>
-        <Header />
         <div className="contact-page">
           <div className="contact-cont">
             <p id="adress">Adress: 11 Shota Rustaveli Avenue</p>
