@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c6d1073.css",
+    "main.js": "/static/js/main.b4dd7a44.js",
+    "static/js/453.d3472a1a.chunk.js": "/static/js/453.d3472a1a.chunk.js",
+    "static/media/background.jpg": "/static/media/background.331cc7929beb508c44d2.jpg",
+    "static/media/mexican-design-1.jpeg": "/static/media/mexican-design-1.91d342e87d4f5b6c7a92.jpeg",
+    "static/media/mexican-design-2.jpeg": "/static/media/mexican-design-2.855c48285a126be19618.jpeg",
+    "static/media/mexican-design-3.jpeg": "/static/media/mexican-design-3.12f1231ecd308695b9b6.jpeg",
+    "static/media/logo.png": "/static/media/logo.61ec8e27b5c6043813f7.png",
+    "static/media/phone.png": "/static/media/phone.99d13a49d30505c08c76.png",
+    "static/media/Email.png": "/static/media/Email.fb0c2ce258e381d7c4af.png",
+    "index.html": "/index.html",
+    "main.1c6d1073.css.map": "/static/css/main.1c6d1073.css.map",
+    "main.b4dd7a44.js.map": "/static/js/main.b4dd7a44.js.map",
+    "453.d3472a1a.chunk.js.map": "/static/js/453.d3472a1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c6d1073.css",
+    "static/js/main.b4dd7a44.js"
+  ]
+}
