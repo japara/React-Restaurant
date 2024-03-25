@@ -108,7 +108,7 @@ a {
 /* About Us */
 
 .about-page {
-  background-image: url("/Users/japara/Desktop/boot/React-Restaurant/src/images/background.jpg");
+  background-image: url("images/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
